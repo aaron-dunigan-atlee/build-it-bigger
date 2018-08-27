@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Joke Library</string>
+    <string name="joke_question">Why did the chicken cross the road?</string>
+    <string name="standard_answer">To get to the other side!</string>
+</resources>
